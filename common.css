@@ -1,8 +1,15 @@
 .blog_table{
-    border:5px black solid !important;
+    border:2px black solid !important;
 }
 
 .blog_table_header{
     background:blue;
     color:white;
+    border-bottom:2px black double !important;
+}
+
+.blog_table_tr{
+    background:#FFFFCC;
+    color:black;
+    border-bottom:1px black solid !important;
 }
