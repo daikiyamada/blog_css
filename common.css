@@ -1,5 +1,5 @@
 .blog_table{
-    border:5px black solid;
+    border:5px black solid !important;
 }
 
 .blog_table_header{
