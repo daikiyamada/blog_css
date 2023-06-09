@@ -1,3 +1,8 @@
 .blog_table{
     border:5px black solid;
 }
+
+.blog_table_header{
+    background:blue;
+    color:white;
+}
