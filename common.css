@@ -11,5 +11,8 @@
 .blog_table_tr{
     background:#FFFFCC;
     color:black;
-    border-bottom:1px black solid !important;
+    border-bottom:1px black dashed !important;
+}
+.blog_table_td{
+    border-right:1px black solid !important;
 }
